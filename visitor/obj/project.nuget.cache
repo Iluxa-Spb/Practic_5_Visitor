@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJVKUzD8YnhddfE+uIk4PGsxmOiD//8Jt44Vl1gswArU0wn3aX0Zyl6kicxEYEiXvbZ/pb3ZfPa/DznuWs2Emw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Технология разработки программного обеспечения (C#)\\Практическая работа 5\\lab5-visitor\\visitor\\visitor\\visitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

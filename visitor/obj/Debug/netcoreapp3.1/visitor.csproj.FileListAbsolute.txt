@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\bin\Debug\netcoreapp3.1\visitor.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\bin\Debug\netcoreapp3.1\visitor.deps.json
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\bin\Debug\netcoreapp3.1\visitor.runtimeconfig.json
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\bin\Debug\netcoreapp3.1\visitor.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\bin\Debug\netcoreapp3.1\visitor.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\bin\Debug\netcoreapp3.1\visitor.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\obj\Debug\netcoreapp3.1\visitor.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\obj\Debug\netcoreapp3.1\visitor.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\obj\Debug\netcoreapp3.1\visitor.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\obj\Debug\netcoreapp3.1\visitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\obj\Debug\netcoreapp3.1\visitor.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\obj\Debug\netcoreapp3.1\visitor.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 5\lab5-visitor\visitor\visitor\obj\Debug\netcoreapp3.1\visitor.genruntimeconfig.cache
